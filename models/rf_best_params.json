@@ -1,0 +1,8 @@
+{
+  "n_estimators": 500,
+  "min_samples_split": 3,
+  "min_samples_leaf": 2,
+  "max_features": "sqrt",
+  "max_depth": null,
+  "class_weight": "balanced_subsample"
+}
